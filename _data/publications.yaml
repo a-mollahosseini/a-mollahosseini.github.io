@@ -3,7 +3,7 @@ papers:
   - title: "A centrality based genetic algorithm for the graph burning problem"
     authors: "Mahdi Nazeri, <b>Ali Mollahosseini</b>, Iman Izadi"
     venue: "Applied Soft Computing, Volume 144, 2023"
-    paper_pdf: "/assets/publications/2022_cbag/CBAG-Elsevier-Applied-Soft-Computing.pdf"
+    paper_pdf: "/assets/publications/2022_cbag/2022_cbag_arxiv.pdf"
     code: "https://github.com/a-mollahosseini/CBAG"
-    # selected: y
+    selected: y
 
